@@ -2,3 +2,4 @@
 - Ruokaa
 - Mäkkii
 - Namii
+- Nugsei
